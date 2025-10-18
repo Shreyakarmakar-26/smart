@@ -55,7 +55,7 @@ const Login = () => {
             </div>
 
             <h1 className="text-4xl font-medium text-center mb-6">
-              Welcome back to RUET Smart Library!
+              Hey , Welcome back to RUET Smart Library!
             </h1>
             <p className="text-gray-800 text-center mb-8">
               Enter your email and password to log in.
